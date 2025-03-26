@@ -20,7 +20,7 @@ jobs:
 
     steps:
     - name: "Checkout repository"
-      uses: action/labeler@v4
+      uses: actions/labeler@v4
       
     - name: "Apply labels"
       uses: actions/labeler@v4
